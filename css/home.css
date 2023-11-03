@@ -1,0 +1,22 @@
+body{
+    background-color: #aaa;
+}
+a{
+    display: block;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:  24px;
+    color: #fff;
+    background-color: #333;
+    padding: 20px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+a:hover{
+    border: 2px solid #fff;
+    background-color: #000;
+}
+
