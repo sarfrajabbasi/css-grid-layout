@@ -61,6 +61,9 @@ main .card {
   border-radius: 6px;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.05);
 }
+main .card img{
+    width: 100%;
+}
 
 @media screen and (max-width: 960px) {
   main img {
@@ -73,7 +76,6 @@ main .card {
   main .card{
     grid-column: 3/span 8 ;
     text-align: center;
-
   }
 }
 
